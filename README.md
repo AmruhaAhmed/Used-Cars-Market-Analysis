@@ -80,11 +80,11 @@ This project utilizes SQL queries to uncover vital market insights and aid custo
 
 ## Links 🔗
 
-Dataset : 
+Dataset : https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/Dataset
 
-MySQL Queries:
+MySQL Queries: https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/Queries
 
-Outputs: 
+Outputs:  https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/outputs
 
 ## Queries
 
