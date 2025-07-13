@@ -1,7 +1,7 @@
 
 # Used Cars Market Analysis 🚗🏎🚔
 
-This project aims to analyze India's used cars market to identify pricing trends, best and worst car deals, market dynamics, premium brands and customer preferences by using SQL. 📊📉📈
+This project aims to analyze India's used cars market to identify pricing trends, best and worst car deals, market dynamics, premium brands and customer preferences by using SQL and Power BI. 📊📉📈
 
 
 
@@ -28,10 +28,12 @@ The columns are :
 ## Skills 🔨
 
 1. MySQL
-2. Data Analysis
-3. Statistical Insights
-4. Comparitive Analysis
-5. Data Cleaning 
+2. Power BI
+3. Data Analysis
+4. Statistical Insights
+5. Comparitive Analysis
+6. Data Cleaning
+7. Dashboard Design
 ## Analysis 📊💡🔎
 
 1. Ferrari brand has the highest avg selling price of 3,95,00,000 INR while Datsun brand has the lowest average selling price of 320518 INR for pre-owned cars. 🚘💵
@@ -84,7 +86,21 @@ Dataset : https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/Dat
 
 MySQL Queries: https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/Queries
 
+Power BI Dashboard : https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/power%20bi%20dashboard
+
 Outputs:  https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/outputs
+
+## Dashboards
+
+### Executive Summary Dashboard 
+
+<img width="1122" height="630" alt="executive summary dashboard" src="https://github.com/user-attachments/assets/c704113a-513c-4caa-8d15-5a3574d4b1cc" />
+
+### Brand Analysis Dashboard
+<img width="1127" height="630" alt="brand analysis dashboard" src="https://github.com/user-attachments/assets/ea43cf86-2474-403c-b49d-29c1bd8b5531" />
+
+### Drive Insights Dashboard
+<img width="1127" height="630" alt="drive insights dashboard" src="https://github.com/user-attachments/assets/0eb07774-f064-4828-8ecd-25bfaf71abd6" />
 
 ## Queries
 
