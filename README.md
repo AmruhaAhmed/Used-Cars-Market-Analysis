@@ -71,7 +71,7 @@ The columns are :
 
 ## Contributions to the  Pre-owned car market 🏆🏅
 
-This project utilizes SQL queries to uncover vital market insights and aid customers and sellers in better descision making in the following manner:
+This project utilizes SQL queries and Power BI Dashboards to uncover vital market insights and aid customers and sellers in better descision making in the following manner:
 
 1. Helps customers analyze the best and worst pre-owned car deals, hence avoiding overpayment and scams. 📊
 
